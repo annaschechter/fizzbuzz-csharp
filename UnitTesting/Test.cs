@@ -35,6 +35,12 @@ namespace UnitTesting
 			Assert.IsTrue(game.DivisibleByFifteen (15));
 			Assert.IsFalse(game.DivisibleByFifteen (1));
 		}
+
+		[Test()]
+		public void TestPlay ()
+		{
+			Assert.AreEqual ("Fizzbuzz", game.Play (15));
+		}
 	}
 }
 
