@@ -6,7 +6,11 @@ namespace fizzbuzzcsharp
 	{
 		public static void Main ()
 		{
-			Console.WriteLine ("Hello World!");
+			Fizzbuzz game = new Fizzbuzz ();
+			for (int i = 1; i < 100; i++) 
+			{
+				Console.WriteLine (game.Play (i));
+			}
 		}
 
 		public bool DivisibleByThree(int number)
