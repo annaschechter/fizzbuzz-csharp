@@ -1,0 +1,5 @@
+/Users/Macbook/Desktop/coding/fizzbuzz-csharp/fizzbuzz-csharp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Macbook/Desktop/coding/fizzbuzz-csharp/fizzbuzz-csharp/bin/Debug/fizzbuzz-csharp.exe.mdb
+/Users/Macbook/Desktop/coding/fizzbuzz-csharp/fizzbuzz-csharp/bin/Debug/fizzbuzz-csharp.exe
+/Users/Macbook/Desktop/coding/fizzbuzz-csharp/fizzbuzz-csharp/obj/x86/Debug/fizzbuzz-csharp.exe
+/Users/Macbook/Desktop/coding/fizzbuzz-csharp/fizzbuzz-csharp/obj/x86/Debug/fizzbuzz-csharp.exe.mdb
