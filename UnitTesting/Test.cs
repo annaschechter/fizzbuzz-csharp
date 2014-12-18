@@ -20,6 +20,13 @@ namespace UnitTesting
 			Fizzbuzz game = new Fizzbuzz();
 			Assert.AreEqual(true, game.DivisibleByFive(5));
 		}
+
+		[Test ()]
+		public void TestDivisibleByFifteen ()
+		{
+			Fizzbuzz game = new Fizzbuzz ();
+			Assert.AreEqual (true, game.DivisibleByFifteen (15));
+		}
 	}
 }
 

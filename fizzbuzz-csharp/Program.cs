@@ -18,5 +18,10 @@ namespace fizzbuzzcsharp
 		{
 			return number % 5 == 0;
 		}
+
+		public bool DivisibleByFifteen(int number)
+		{
+			return number % 15 == 0;
+		}
 	}
 }
