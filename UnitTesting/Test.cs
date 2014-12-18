@@ -8,10 +8,17 @@ namespace UnitTesting
 	public class FizzbuzzTests
 	{
 		[Test ()]
-		public void TestCase ()
+		public void TestDivisibleByThree ()
 		{
 			Fizzbuzz game = new Fizzbuzz();
 			Assert.AreEqual(true, game.DivisibleByThree(3));
+		}
+
+		[Test ()]
+		public void TestDivisibleByFive ()
+		{
+			Fizzbuzz game = new Fizzbuzz();
+			Assert.AreEqual(true, game.DivisibleByFive(5));
 		}
 	}
 }

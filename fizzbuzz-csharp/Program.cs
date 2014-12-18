@@ -13,5 +13,10 @@ namespace fizzbuzzcsharp
 		{
 			return number % 3 == 0;
 		}
+
+		public bool DivisibleByFive(int number)
+		{
+			return number % 5 == 0;
+		}
 	}
 }
